@@ -1,0 +1,45 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Dependency directories
+node_modules/
+
+# Build outputs
+dist/
+dist-ssr/
+*.local
+
+# Vite cache
+.vite/
+
+# Environment variables
+.env
+.env.*.local
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Optional lockfiles (keep only one)
+package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
+
+# Optional: production build preview (if any)
+build/
