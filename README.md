@@ -3,7 +3,7 @@
 A simple and clean MERN stack web app to help students track their job applications.
 
 ## 🔗 Live Demo
-[Frontend on Vercel](https://your-vercel-url.vercel.app)  
+[Frontend on Vercel](https://job-tracker-frontend-liart.vercel.app)  
 [Backend on Render](https://job-tracker-backend-w9vf.onrender.com)
 
 ---
