@@ -22,6 +22,6 @@ export const deleteJob = async (id) => {
 
 // ✅ Update job status
 export const updateJobStatus = async (id, status) => {
-  const response = await axios.patch(`${BASE_URL}/api/jobs/${id}`, { status });
+  const response = await axios.put(`${BASE_URL}/api/jobs/${id}`, { status });
   return response.data;
 };
